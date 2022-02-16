@@ -1,7 +1,7 @@
 # add by AbrLiu
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
-| Large-Margin Contrastive Learning with Distance Polarization Regularizer(http://proceedings.mlr.press/v139/chen21n/chen21n.pdf)  |Contrastive Learning| ICML 2021 |-|
+| [Large-Margin Contrastive Learning with Distance Polarization Regularizer](http://proceedings.mlr.press/v139/chen21n/chen21n.pdf)  |Contrastive Learning| ICML 2021 |-|
 
 # Deep Clustering: methods and implements
 
